@@ -2,6 +2,3 @@ Current Directory: "./Library"
 
 Insert links below dashed line (One link per line)
 ----------------------------------------------------
-http://www.mangareader.net/bleach
-http://www.mangareader.net/psyren
-http://www.mangareader.net/ao-no-exorcist
